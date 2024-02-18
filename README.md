@@ -2,7 +2,8 @@ This is another version of LibMiriSDR-4, but it is corrected for Windows and mor
 
 The original code is from here: https://github.com/f4exb/libmirisdr-4
 
-* Support for Windows 10/11 through WinUSB (the newest version)The bulk synchronous transfer is improved.
+* Support for Windows 10/11 through WinUSB (the newest version)
+* The bulk synchronous transfer is improved.
 * The code is as simple as possible with all the original comments.
 * I solved the problem with transfer stability during the change of rate.
 * The code supports all the futures of the original one, but now for Windows.
