@@ -14,4 +14,4 @@ The original code is from here: https://github.com/f4exb/libmirisdr-4
 Cooperation is really apreciated:)
 
 
-With this code it isa easynow to create interfaces for other software.
+With this code it is easy now to create interfaces for other software.
