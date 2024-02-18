@@ -1,5 +1,6 @@
 This is another version of LibMiriSDR-4, but it is corrected for Windows and more stable. The great honor for the hard work should be given to Miroslav Slugen and the addition of Leif Asbrink SM5BSZ. If you are using the code to quote these two authors, they spent many hours breaking down the meaning of registers in the not-documented chip.
 
+The original code is from here: https://github.com/f4exb/libmirisdr-4
 
 * Support for Windows 10/11 through WinUSB (the newest version)The bulk synchronous transfer is improved.
 * The code is as simple as possible with all the original comments.
