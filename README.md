@@ -9,7 +9,7 @@ The original code is from here: https://github.com/f4exb/libmirisdr-4
 * The problem with Windows USB transfers is also solved.
 * I didn't test the asynchronous mode of USB, but the rest works well.
 * The library dynamically links the libusb.dll (in the newest version).
-* 
+* The code works great with the RSP1c shown on the photo
 
 Cooperation is really apreciated:)
 
