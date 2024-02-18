@@ -7,7 +7,7 @@ The original code is from here: https://github.com/f4exb/libmirisdr-4
 * I solved the problem with transfer stability during the change of rate.
 * The code supports all the futures of the original one, but now for Windows.
 * The problem with Windows USB transfers is also solved.
-* I didn't test the synchronous mode of USB, but the rest works well.
+* I didn't test the asynchronous mode of USB, but the rest works well.
 * The library dynamically links the libusb.dll (in the newest version).
 * 
 
